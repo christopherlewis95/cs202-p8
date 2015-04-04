@@ -1,0 +1,909 @@
+Script started on Wed 01 Apr 2015 11:12:53 PM PDT
+]0;chris@ixion-VirtualBox: ~/cs/cs202/projects/p8chris@ixion-VirtualBox:~/cs/cs202/projects/p8$ exit./main[2Pmake
+g++ *.cpp -w -o main
+]0;chris@ixion-VirtualBox: ~/cs/cs202/projects/p8chris@ixion-VirtualBox:~/cs/cs202/projects/p8$ ./main
+Num Players: 8
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 1
+********************************************************
+
+
+Enter name file: player.txt
+Steven Honsworth		0
+
+Dave Bushemi		0
+
+Iam Groot		0
+
+John Doe		0
+
+Iluv Names		0
+
+Kobi Wan		0
+
+Prgming Izcool		0
+
+Chris Hansley		0
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 3
+********************************************************
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 4
+********************************************************
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 5
+********************************************************
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 6
+********************************************************
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 5
+********************************************************
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+rank	suit	location
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 2
+********************************************************
+
+
+Enter name card file: deck.txt
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 3
+********************************************************
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 4
+********************************************************
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 5
+********************************************************
+two	heart	Unshuffled
+
+three	heart	Unshuffled
+
+four	heart	Unshuffled
+
+five	heart	Unshuffled
+
+six	heart	Unshuffled
+
+seven	heart	Unshuffled
+
+eight	heart	Unshuffled
+
+nine	heart	Unshuffled
+
+ten	heart	Unshuffled
+
+jack	heart	Unshuffled
+
+queen	heart	Unshuffled
+
+king	heart	Unshuffled
+
+ace	heart	Unshuffled
+
+two	club	Unshuffled
+
+three	club	Unshuffled
+
+four	club	Unshuffled
+
+five	club	Unshuffled
+
+six	club	Unshuffled
+
+seven	club	Unshuffled
+
+eight	club	Unshuffled
+
+nine	club	Unshuffled
+
+ten	club	Unshuffled
+
+jack	club	Unshuffled
+
+queen	club	Unshuffled
+
+king	club	Unshuffled
+
+ace	club	Unshuffled
+
+two	diamond	Unshuffled
+
+three	diamond	Unshuffled
+
+four	diamond	Unshuffled
+
+five	diamond	Unshuffled
+
+six	diamond	Unshuffled
+
+seven	diamond	Unshuffled
+
+eight	diamond	Unshuffled
+
+nine	diamond	Unshuffled
+
+ten	diamond	Unshuffled
+
+jack	diamond	Unshuffled
+
+queen	diamond	Unshuffled
+
+king	diamond	Unshuffled
+
+ace	diamond	Unshuffled
+
+two	spade	Unshuffled
+
+three	spade	Unshuffled
+
+four	spade	Unshuffled
+
+five	spade	Unshuffled
+
+six	spade	Unshuffled
+
+seven	spade	Unshuffled
+
+eight	spade	Unshuffled
+
+nine	spade	Unshuffled
+
+ten	spade	Unshuffled
+
+jack	spade	Unshuffled
+
+queen	spade	Unshuffled
+
+king	spade	Unshuffled
+
+ace	spade	Unshuffled
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 6
+********************************************************
+three	spade	Shuffled
+
+six	spade	Shuffled
+
+nine	club	Shuffled
+
+nine	diamond	Shuffled
+
+four	heart	Shuffled
+
+king	spade	Shuffled
+
+ace	heart	Shuffled
+
+seven	club	Shuffled
+
+jack	diamond	Shuffled
+
+ten	club	Shuffled
+
+king	club	Shuffled
+
+eight	club	Shuffled
+
+two	diamond	Shuffled
+
+seven	heart	Shuffled
+
+five	spade	Shuffled
+
+seven	spade	Shuffled
+
+four	spade	Shuffled
+
+ace	club	Shuffled
+
+three	diamond	Shuffled
+
+jack	spade	Shuffled
+
+six	diamond	Shuffled
+
+five	diamond	Shuffled
+
+four	diamond	Shuffled
+
+eight	diamond	Shuffled
+
+ten	diamond	Shuffled
+
+eight	spade	Shuffled
+
+nine	spade	Shuffled
+
+queen	spade	Shuffled
+
+four	club	Shuffled
+
+seven	diamond	Shuffled
+
+queen	heart	Shuffled
+
+two	heart	Shuffled
+
+six	heart	Shuffled
+
+six	club	Shuffled
+
+five	heart	Shuffled
+
+two	spade	Shuffled
+
+ten	spade	Shuffled
+
+nine	heart	Shuffled
+
+five	club	Shuffled
+
+three	heart	Shuffled
+
+queen	club	Shuffled
+
+queen	diamond	Shuffled
+
+ace	spade	Shuffled
+
+ten	heart	Shuffled
+
+jack	heart	Shuffled
+
+eight	heart	Shuffled
+
+three	club	Shuffled
+
+king	diamond	Shuffled
+
+jack	club	Shuffled
+
+ace	diamond	Shuffled
+
+king	heart	Shuffled
+
+two	club	Shuffled
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 7
+********************************************************
+Steven Honsworth		0
+three	spade	Player Hand
+	ten	club	Player Hand
+	three	diamond	Player Hand
+	queen	spade	Player Hand
+	ten	spade	Player Hand
+	
+Dave Bushemi		0
+six	spade	Player Hand
+	king	club	Player Hand
+	jack	spade	Player Hand
+	four	club	Player Hand
+	nine	heart	Player Hand
+	
+Iam Groot		0
+nine	club	Player Hand
+	eight	club	Player Hand
+	six	diamond	Player Hand
+	seven	diamond	Player Hand
+	five	club	Player Hand
+	
+John Doe		0
+nine	diamond	Player Hand
+	two	diamond	Player Hand
+	five	diamond	Player Hand
+	queen	heart	Player Hand
+	three	heart	Player Hand
+	
+Iluv Names		0
+four	heart	Player Hand
+	seven	heart	Player Hand
+	four	diamond	Player Hand
+	two	heart	Player Hand
+	queen	club	Player Hand
+	
+Kobi Wan		0
+king	spade	Player Hand
+	five	spade	Player Hand
+	eight	diamond	Player Hand
+	six	heart	Player Hand
+	queen	diamond	Player Hand
+	
+Prgming Izcool		0
+ace	heart	Player Hand
+	seven	spade	Player Hand
+	ten	diamond	Player Hand
+	six	club	Player Hand
+	ace	spade	Player Hand
+	
+Chris Hansley		0
+seven	club	Player Hand
+	four	spade	Player Hand
+	eight	spade	Player Hand
+	five	heart	Player Hand
+	ten	heart	Player Hand
+	
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 8
+********************************************************
+queen	club	Stock Pile
+
+queen	diamond	Stock Pile
+
+ace	spade	Stock Pile
+
+ten	heart	Stock Pile
+
+jack	heart	Stock Pile
+
+eight	heart	Stock Pile
+
+three	club	Stock Pile
+
+king	diamond	Stock Pile
+
+jack	club	Stock Pile
+
+ace	diamond	Stock Pile
+
+king	heart	Stock Pile
+
+two	club	Stock Pile
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 9
+********************************************************
+jack	diamond	Discard Pile
+
+ace	club	Discard Pile
+
+nine	spade	Discard Pile
+
+two	spade	Discard Pile
+
+jack	heart	Discard Pile
+
+
+********************************************************
+   5 Card Draw Featuring the host Chris!
+   -------------------------------------
+
+1.) Allow Players to take a seat (Reads Player File)
+2.) Get out a deck (Reads in Unshuffled Deck)
+3.) Shuffle the cards
+4.) Deal the cards to the lovely guests
+5.) Print Unshuffled Deck
+6.) Print Shuffled Deck
+7.) Print Players Hands
+8.) Print Stock
+9.) Print Discards 
+10.) End the game (Since youre the host) 
+********************************************************
+Input number: 10
+********************************************************
+]0;chris@ixion-VirtualBox: ~/cs/cs202/projects/p8chris@ixion-VirtualBox:~/cs/cs202/projects/p8$ exit
+Script done on Wed 01 Apr 2015 11:14:23 PM PDT

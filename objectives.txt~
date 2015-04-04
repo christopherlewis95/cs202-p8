@@ -1,0 +1,75 @@
+
+Project 8 - Description
+
+CS 202 - Computer Science II - Poker
+-- Overloaded Operators Review--
+Due: April 1st
+
+Objectives: This project will reinforce your knowledge of overloaded operators. It will also review your knowledge of constructors and destructors.
+
+This project will be based on the poker game – Five Card Draw.  It will have the following limited functionality: Read a deck of cards in from file; shuffle the deck of cards; read in a list of players from file; deal first round of cards to the players; print the unshuffled deck, shuffled deck, discard and stock (remaining cards) piles, and player information to screen.
+
+Deal the cards in rotation (i.e., first card to player1, second card to player2, etc.).  After dealing to the players, be sure and deal the next card to the discard pile and then rest of the remaining cards to the stock pile.
+
+There should be a menu system. Ask the user for the number of players to include in the game. The number of players should range from 2 to 8. Each time the program is executed the user should be able to specify the number of players. Default values for data members are indicated below.
+
+The 52 member card data file should be (suits and ranks are strings) written with four rows of cards, each row containing the thirteen cards from each suit, [suit] [rank]  ... [suit] [rank]. As an example:
+
+heart two  ... heart ace
+
+club two  …. club ace
+
+diamond two … diamond ace
+
+spade two … spade ace
+
+The card class will contain the following private data members (with default values as indicated):
+
+•   suit, a string (heart, diamond, club, spade; default value = "suit").
+
+•   rank, a string (two , three, ..., ace; default value = "rank").
+
+•   location, a string (unshuffled, shuffled, [player name], discard, stock; default value = "location").
+
+The 8 member player file should be structured with eight rows of players’ first and last names, [first name] [last name]. As an example: 
+
+Bob Smith
+
+…
+
+Jane Doe
+
+ 
+
+The player class will contain the following data members:
+
+•   name, a string (default value = "first last").
+
+•   hand, a card pointer to an array of 5 cards.
+
+•   bet, a float (default value = 0.0).
+
+The structure and properties for this project are:
+
+•   Card overloaded assignment operator (used to copy cards from one deck to another, e.g., unshuffled to shuffled).
+
+•   Two card overloaded comparison operators (>, <, >=, <=) - one must be a friend function and one a member function.
+
+•   Card overloaded extraction operator (used to read in cards from file).
+
+•   Card overloaded insertion operator (used to print cards to screen).
+
+•   Player overloaded extraction operator (used to read in players from file).
+
+•   Player overloaded insertion operator (used to print players’ information to screen).
+
+•   Constructors and destructors for both classes.
+
+•   Copy constructor for the card class.
+
+ 
+
+Have a member function testing area at the end of main for required functions that cannot be reasonably incorporated into your poker game game narrative. Other conditions such as documentation, make file, and testing still apply.
+
+
+You must declare all arrays using dynamic memory. Use offset notation for pointers except where absolutely necessary. The string library and string data types may now be used.  When dereferencing pointers with member access use arrow operators.
